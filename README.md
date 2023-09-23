@@ -32,8 +32,10 @@ User Profile: Registered users can manage personal information and account setti
 User Orders: Access to order history allows users to review past purchases, check order statuses, and track deliveries. This transparency offers peace of mind, allowing users to monitor their orders throughout the fulfillment process.
 
 In summary, this e-commerce platform combines robust features to provide a user-friendly and secure shopping experience. From browsing and managing a shopping cart to efficient order processing and account security, these elements cater to both customers and administrators. Sorting, filtering, and pagination enhance usability, while user profiles and order histories foster customer trust and engagement. Together, these features create a comprehensive and efficient e-commerce platform.
-![Screenshot (1)](https://github.com/sk230144/S_MART_ECOMMERCE_FRONTEND/assets/95127073/47c0cda3-e516-4098-9![Screenshot (8)](https://github.com/sk230144/S_MART_ECOMMERCE_FRONTEND/assets/95127073/2c2f3614-b987-4c60-9716-478762dbfe98)
-ec3-57115d14208e)
+![Screenshot (2)](https://github.com/sk230144/S_MART_ECOMMERCE_FRONTEND/assets/95127073/c8f10906-deab-415f-8b8e-65008321d656)
+
+![Screenshot (8)](https://github.com/sk230144/S_MART_ECOMMERCE_FRONTEND/assets/95127073/37a50859-abd0-4d1c-a323-d481fce48f46)
+
 ![Screenshot (4)](https://github.com/sk230144/S_MART_ECOMMERCE_FRONTEND/assets/95127073/bc5d81cd-79a7-4534-83ac-8894e0ef34dd)
 ![Screenshot (6)](https://github.com/sk230144/S_MART_ECOMMERCE_FRONTEND/assets/95127073/f3c9e424-4ecc-48ca-94b3-7d7bc3aca1ab)
 ![Screenshot (3)](https://github.com/sk230144/S_MART_ECOMMERCE_FRONTEND/assets/95127073/d9cc378f-73c6-4b81-8f18-93b3b1396784)
